@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "this for testing"
 echo "enter the cost of apple"
 read a
 echo "enter the cost of banana"
