@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "this for testing123"
+echo "this is to fetch"
 echo "enter the cost of apple"
 read a
 echo "enter the cost of banana"
