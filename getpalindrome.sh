@@ -1,4 +1,5 @@
 #!/bin/bash
+#echo "this is for testing"
 count=$1
 b=$2
 while [ $count -le $b ] 
