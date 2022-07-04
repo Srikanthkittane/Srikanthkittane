@@ -1,4 +1,5 @@
 #!/bin/bash
+#echo "this is srikanth"
 num=$@
 count=0
 for i in $num
