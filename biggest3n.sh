@@ -1,10 +1,10 @@
 #!/bin/bash
 echo "enter the first number to compare"
-read a 
+a=$1
 echo "enter the second number to compare"
-read b
+b=$2
 echo "enter the third number to compare"
-read c
+c=$3
 if [ $a -gt $b ] && [  $a -gt $c ]
 then
 	echo "$a is the biggest number"
