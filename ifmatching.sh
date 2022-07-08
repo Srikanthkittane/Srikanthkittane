@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "this is for testing fetch command"
 echo "enter the string"
 read a 
 if [[ "$a" == "seven" ]] 
