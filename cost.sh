@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "this is to test pollscm"
 echo "enter the cost of apple"
 read a
 echo "enter the cost of banana"
