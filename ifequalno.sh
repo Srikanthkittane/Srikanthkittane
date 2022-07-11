@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "enter the number"
+echo "playtime"
 read a 
 if [ $a -eq 5 ]
 then
