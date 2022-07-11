@@ -12,6 +12,6 @@ elif [ $b -gt $a ] && [  $b -gt $c ]
 then
 	echo "$b is the biggest number"
 else
-	echo "$c is the biggest number"
+	echo "$c is the biggest number and the output is $c"
 fi
 
