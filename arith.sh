@@ -1,8 +1,8 @@
 #!/bin/bash
 echo "enter the first value"
-read a 
+a=$1 
 echo "enter the second value"
-read b
+b=$2
 sum=`expr $a + $b`
 dif=`expr $a - $b`
 mul=`expr $a \* $b`
