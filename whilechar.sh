@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "hello"
 echo "enter the filename"
 read name
 count=1
